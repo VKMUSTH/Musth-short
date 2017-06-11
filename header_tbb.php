@@ -1,7 +1,7 @@
 <html>
 <head>
 	<title>Musth &#8250; Accueil</title>
-	<link href="musth.co/public/stylesheet/musth.css" 	rel="stylesheet" 	type="text/css">
+	<link href="musth.css" 	rel="stylesheet" 	type="text/css">
 	<link href="musth.co/public/stylesheet/print.css" 	rel="stylesheet" 	type="text/css" media="print">
 	<link href="https://cloud.githubusercontent.com/assets/22053566/23463399/9a964af2-fe91-11e6-9f00-5060337cf164.png"	rel="icon" 		type="image/png"/>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
